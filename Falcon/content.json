@@ -4,7 +4,7 @@
 "title":"Falcon Automation Tool",
 "subtitle":"Simple, Reliable, Intelligent",
 "tab1":"Getting Started",
-"link1":"ContentTextFiles/gettingstarted.txt",
+"link1":"ContentTextFiles/gettingstarted.md",
 "tab2":"Concepts",
 "link2":"ContentTextFiles/concepts.txt",
 "tab3":"Tools and Plugins",
